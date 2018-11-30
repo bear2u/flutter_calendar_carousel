@@ -89,6 +89,12 @@ Widget widget() {
 }
 ```
 
+### 개인적인 수정
+
+- [] 활성화되는 유효날짜 선택기능 (최대 2주)
+- [] 선택시 원형 드로어블 추가
+- [] 다음 날짜 미리보기 제거
+
 ### TODO
 - [x] Render weekdays.
 - [x] Customizable headerWidget.
